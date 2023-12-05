@@ -1,0 +1,10 @@
+body {
+  background: saddlebrown;
+}
+
+button {
+  border: none;
+  padding: 5px 30px;
+  color: saddlebrown;
+  margin-right: 10px;
+}
